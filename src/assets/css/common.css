@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: black;
+    width: 100vw;
+    height:10vh;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    width: 100vw;
+    height: 10vh;
+    margin:100vh 0 0 0;
+    color: white;
+}
