@@ -9,11 +9,39 @@ body{
     height:10vh;
     color: white;
 }
+.header div{
+    margin:0 0 1vh 80vw;
+    cursor: pointer;
+}
 
 .footer{
     background-color: black;
     width: 100vw;
     height: 10vh;
-    margin:100vh 0 0 0;
     color: white;
+    
+}
+.formContainer input{
+    width: 40vw;
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color:bisque;
+
+}
+.formContainer button{
+    width:40vw;
+    height:5vh;
+    margin-top: 2vh;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color:green;
+}
+.form{
+    width:40vw;
+    height: 60vh;
+    margin:5vh 0 15vh 30vw;
 }

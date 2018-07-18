@@ -4,8 +4,10 @@ import React from 'react';
 const Header = () =>{
     return(
         <div className="header">
-            Header
-            </div>
+            <div>
+                Login<i class="fa fa-arrow-right"></i>
+                </div>
+        </div>
     ) ;
 }
 
